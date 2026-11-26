@@ -1,10 +1,7 @@
-# IPTV Alchemy releases
+# Alchemy releases
 
-Signed release builds of IPTV Alchemy for Android TV and Fire TV. There is no source code here:
+Signed release builds of Alchemy for Android TV and Fire TV. There is no source code here:
 this repository only holds the downloads, and the app checks it for updates.
-
-IPTV Alchemy is a player for your own IPTV subscription (Xtream Codes or M3U). It includes no
-channels or content.
 
 ## Installing
 
